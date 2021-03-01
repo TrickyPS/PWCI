@@ -1,0 +1,46 @@
+*{
+
+
+}
+
+.body{
+    
+}
+.navbar{
+
+    background-color:transparent;
+    transition: all 1s ease;
+}
+
+.navbar.transicion{
+
+    background-color: red;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar.abierto{
+
+    background-color: red;
+
+}
+
+
+.inicio{
+    
+    background: white;
+
+}
+.inicio-text h1{
+    font-size: 20px;
+
+}
+.row-inicio{
+
+    padding-top: 150px;
+
+}
+.carousel-item img{
+
+    max-width: 450px;
+
+}
+
